@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Kolkata Land Connection</title>
+<style>
+body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+header { background: #0d6efd; color: white; padding: 15px; text-align: center; }
+nav { background: #333; padding: 10px; text-align: center; }
+nav a { color: white; margin: 0 15px; text-decoration: none; }
+.hero { padding: 50px; text-align: center; background: #f4f4f4; }
+.section { padding: 30px; }
+.property { border: 1px solid #ddd; padding: 15px; margin: 10px; }
+footer { background: #333; color: white; text-align: center; padding: 10px; }
+button { background: #0d6efd; color: white; border: none; padding: 10px 20px; cursor: pointer; }
+</style>
+</head>
+<body>
+
+<header>
+<h1>Kolkata Land Connection</h1>
+<p>Buy & Sell & Rent Land and Flats in Kolkata</p>
+</header>
+
+<nav>
+<a href="#home">Home</a>
+<a href="#properties">Properties</a>
+<a href="#contact">Contact</a>
+</nav>
+
+<div class="hero" id="home">
+<h2>Find Your Dream Property</h2>
+<p>Best deals on land & flats in Kolkata</p>
+<button onclick="alert('Call: 6290355253')">Contact Now</button>
+</div>
+
+<div class="section" id="properties">
+<h2>Available Properties</h2>
+
+<div class="property">
+<h3>Residential Plot in Mallickpur</h3>
+<p>Price: ₹5,00,000</p>
+<p>Size: 2 Katha</p>
+</div>
+
+
+<div class="property">
+<h3>1BHK or 2BHK Flat in Mallickpur</h3>
+<p>Price: ₹2000 sft</p>
+<p>Location: Near Mallickpur station</p>
+</div>
+
+<div class="property">
+<h3>Residential House Rent in Mallickpur</h3>
+<p>Price: ₹5000</p>
+<p>Location:Near Mallickpur Station</p>
+</div>
+
+<div class="property">
+<h3>Comercial place Rent in Mallickpur</h3>
+<p>Price: Negotiable</p>
+<p>Location:Near Mallickpur Station</p>
+</div>
+
+</div>
+
+<div class="section" id="contact">
+<h2>Contact Us</h2>
+<p>Phone: 6290355253</p>
+<p>Email: mirajali0049@gmail.com@gmail.com</p>
+</div>
+
+<footer>
+<p>© 2026 Kolkata Land Connection</p>
+</footer>
+
+</body>
+</html>
